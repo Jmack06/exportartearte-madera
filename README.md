@@ -1,2 +1,2 @@
 # exportartearte-madera
-Studio de grabacion, Escuela de música, venta de insyrumentos musicales
+ https://jmack06.github.io/exportartearte-madera/
